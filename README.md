@@ -3,6 +3,8 @@ Welcome to my GitHub profile! I'm Pedro Rodrigues from Lisbon, Portugal, and I'm
 
 I fell into Computer Science when I was little, and never looked back since. I'm truly passionate about building efficient, secure and maintainable software systems.
 
+Feel free to reach out! I enjoy helping out other developers whenever I can.
+
 **Languages of choice:** `Java`, `Kotlin`, `JavaScript`, `C#`, `C`
 <!--
 **Pexers/pexers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
