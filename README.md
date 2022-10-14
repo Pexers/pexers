@@ -1,5 +1,9 @@
 ### Hey there 👋😉
 Welcome to my GitHub profile!
+
+I fell into computer science when I was little, and never looked back since.
+
+**Languages of choice:** `Java`, `Kotlin`, `JavaScript`, `C#`, `C`
 <!--
 **Pexers/pexers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
