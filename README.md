@@ -1,8 +1,7 @@
 ### Hey there! 👋😉
 Welcome to my GitHub profile! I'm Pedro Rodrigues from Lisbon, Portugal, and I'm currently finishing my MSc degree in Computer Science.
 
-I fell into Computer Science when I was little, and never looked back since.  
-I'm truly passionate about building efficient, secure and maintainable software systems.
+I fell into Computer Science when I was little, and never looked back since. I'm truly passionate about building efficient, secure and maintainable software systems.
 
 **Languages of choice:** `Java`, `Kotlin`, `JavaScript`, `C#`, `C`
 <!--
