@@ -1,7 +1,8 @@
 ### Hey there 👋😉
 Welcome to my GitHub profile!
 
-I fell into computer science when I was little, and never looked back since.
+I fell into computer science when I was little, and never looked back since.  
+I'm truly passionate about building efficient, secure and maintainable software systems.
 
 **Languages of choice:** `Java`, `Kotlin`, `JavaScript`, `C#`, `C`
 <!--
