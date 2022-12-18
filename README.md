@@ -1,4 +1,4 @@
-### Hey there! 👋😉
+### Hey there!👋
 Welcome to my GitHub profile! 
 
 I'm Pedro Rodrigues, from Lisbon, Portugal, and I'm currently finishing my MSc degree in Computer Science :computer:
