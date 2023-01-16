@@ -6,4 +6,4 @@ I'm truly passionate about building efficient, secure and maintainable software 
 
 **Languages of choice:** `Java`, `Kotlin`, `JavaScript`, `C#`, `C`.
 
-**Main topics of interest:** `Cloud Computing`, `CI/CD`, `Distributed Systems`, `Cyber Security`.
+**Main topics of interest:** `Cloud Computing`, `DevOps`, `SRE`, `Distributed Systems`, `Cyber Security`.
